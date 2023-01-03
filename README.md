@@ -1,5 +1,7 @@
+[![MasterHead](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)](https://rinkhimera.github.io/)
 <h1 align="center">Hi 👋, I'm Samuel Pokam!</h1>
 <h3 align="center">I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.</h3>
+(img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif")
 
 - 🔭 I’m currently working on **Node.js**
 
@@ -28,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkhimera&show_icons=true&locale=en&layout=compact" alt="rinkhimera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinkhimera&show_icons=true&locale=en" alt="rinkhimera" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkhimera&" alt="rinkhimera" /></p>
