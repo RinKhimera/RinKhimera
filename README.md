@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React & JavaScript projects**
 
-- 👨‍💻 All of my projects are available at [https://rinkhimera.github.io/](my website)
+- 👨‍💻 All of my projects are available at <a href="https://rinkhimera.github.io/">my website</a>
 
 - 💬 Ask me about **JavaScript & React**
 
