@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **React & JavaScript projects**
 
-- 👨‍💻 All of my projects are available at <a href="https://rinkhimera.github.io/">my website</a>
+- 👨‍💻 All of my projects are available at <a href="https://rinkhimera.github.io/">my portfolio website</a>
 
 - 💬 Ask me about **JavaScript & React**
 
 - 📫 How to reach me **dixiades@gmail.com**
 
-- 📄 Know about my experiences [https://rinkhimera.github.io/img/Samuel's%20Resume.pdf](https://rinkhimera.github.io/img/Samuel's%20Resume.pdf)
+- 📄 Know about my experiences <a href="https://rinkhimera.github.io/img/Samuel's%20Resume.pdf">Here</a>
 
 - ⚡ Fun fact **Coding Enthusiast | Travel Geek| Anime Seeker | Programming Tryharder**
 
