@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **React & Node.js**
+- 🌱 I’m currently learning **Express.js & MongoDB**
 
-- 👯 I’m looking to collaborate on **React & JavaScript projects**
+- 👯 I’m looking to collaborate on **JavaScript projects**
 
 - 👨‍💻 All of my projects are available at <a href="https://rinkhimera.github.io/">my portfolio website</a>
 
-- 💬 Ask me about **JavaScript & React**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **dixiades@gmail.com**
 
