@@ -1,6 +1,6 @@
 # Hey, I'm Sam 👋
 
-Full-stack developer based in Quebec 🇨🇦 — 7 years building products people actually use.
+Full-stack developer based in Quebec 🇨🇦
 
 ## 📬 Me contacter
 
